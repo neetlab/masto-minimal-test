@@ -1,0 +1,15 @@
+{
+  "name": "masto-minimal-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/neetbox/masto-minimal-test.git",
+  "author": "Neetshin <n33t5hin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "masto": "^2.4.0",
+    "typescript": "^3.5.2"
+  }
+}
